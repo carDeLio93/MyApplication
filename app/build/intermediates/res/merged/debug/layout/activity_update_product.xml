@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@color/sfondo"
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <AutoCompleteTextView
+            android:id="@+id/nomeUP"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:hint="Nome Prodotto"
+            android:inputType="textEmailAddress"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:freezesText="false" />
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <AutoCompleteTextView
+            android:id="@+id/marcaUP"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:hint="Marca Prodotto"
+            android:inputType="textEmailAddress"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:freezesText="false" />
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <AutoCompleteTextView
+            android:id="@+id/prezzoProdottoUP"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:hint="Prezzo Prodotto"
+            android:inputType="textEmailAddress"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:freezesText="false" />
+
+    </android.support.design.widget.TextInputLayout>
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinnerUP"
+        android:entries="@+array/staticivili"
+        android:paddingBottom="10dp"
+
+        android:popupBackground="@color/sfondo" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom"
+        android:paddingBottom="50dp">
+
+        <Button
+            android:id="@+id/modifica"
+            android:text="modifica"
+            android:textColor="#BDFFED"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="5"
+            android:shadowDy="5"
+            android:shadowRadius="5"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            android:layout_marginBottom="2dp"
+            android:gravity="bottom|center_vertical|center_horizontal"
+            android:paddingBottom="10dp" />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

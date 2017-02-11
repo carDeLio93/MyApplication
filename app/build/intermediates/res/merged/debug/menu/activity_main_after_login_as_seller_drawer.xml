@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+   >
+
+    <group android:checkableBehavior="single"
+       >
+        <item
+            android:id="@+id/gestioneProdotti"
+            android:icon="@drawable/ordinazioni"
+            android:title="gestione prodotti" />
+        <item
+            android:id="@+id/gestioneMenu"
+            android:icon="@drawable/menu"
+            android:title="gestione menù" />
+        <item
+            android:id="@+id/prenotazioniPerIlMioLocale"
+            android:icon="@drawable/prenotazioni"
+            android:title="Le mie prenotazioni" />
+
+    </group>
+
+
+</menu>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\carmine\\Desktop\\progINGSW\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_activity_after_login_drawer.xml",
+        "source": "C:\\Users\\carmine\\Desktop\\progINGSW\\MyApplication\\app\\src\\main\\res\\menu\\activity_main_activity_after_login_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\carmine\\Desktop\\progINGSW\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_after_login_as_seller_drawer.xml",
+        "source": "C:\\Users\\carmine\\Desktop\\progINGSW\\MyApplication\\app\\src\\main\\res\\menu\\activity_main_after_login_as_seller_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\carmine\\Desktop\\progINGSW\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\carmine\\Desktop\\progINGSW\\MyApplication\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\carmine\\Desktop\\progINGSW\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_place_drawer.xml",
+        "source": "C:\\Users\\carmine\\Desktop\\progINGSW\\MyApplication\\app\\src\\main\\res\\menu\\activity_place_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\carmine\\Desktop\\progINGSW\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_gestione_prodotti_drawer.xml",
+        "source": "C:\\Users\\carmine\\Desktop\\progINGSW\\MyApplication\\app\\src\\main\\res\\menu\\activity_gestione_prodotti_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\carmine\\Desktop\\progINGSW\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_gestione_menu_drawer.xml",
+        "source": "C:\\Users\\carmine\\Desktop\\progINGSW\\MyApplication\\app\\src\\main\\res\\menu\\activity_gestione_menu_drawer.xml"
+    }
+]
